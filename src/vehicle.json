@@ -1,0 +1,34 @@
+{
+  "vin": "4T1BF1FK2DU716169",
+  "year": "2015",
+  "make": "Nissan",
+  "model": "Altima",
+  "trim": "SL",
+  "id": -1,
+  "_links": {
+    "self": {
+      "href": "http://localhost:8080/vehicles/-1"
+    },
+    "vehicle": {
+      "href": "http://localhost:8080/vehicles/-1"
+    },
+    "wheels": {
+      "href": "http://localhost:8080/vehicles/-1/wheels"
+    },
+    "owner": {
+      "href": "http://localhost:8080/vehicles/-1/owner"
+    },
+    "interior": {
+      "href": "http://localhost:8080/vehicles/-1/interior"
+    },
+    "survey": {
+      "href": "http://localhost:8080/vehicles/-1/survey"
+    },
+    "exterior": {
+      "href": "http://localhost:8080/vehicles/-1/exterior"
+    },
+    "underbody": {
+      "href": "http://localhost:8080/vehicles/-1/underbody"
+    }
+  }
+}
